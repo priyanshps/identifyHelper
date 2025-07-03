@@ -1,4 +1,4 @@
-# 🔗 Bitespeed Identity Reconciliation Backend
+# 🔗 Identity Reconciliation Backend
 
 This project implements a solution for **customer identity reconciliation** using `email` and `phoneNumber`. It ensures that different combinations of contact details (used by the same person) are correctly linked under a single identity.
 
